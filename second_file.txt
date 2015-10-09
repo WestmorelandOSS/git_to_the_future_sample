@@ -1,0 +1,47 @@
+Push sending to something
+Pull pulling from something
+Local my computer
+
+
+staging
+
+commits are changes that are made
+
+add changes 
+
+git add <file or directory>
+
+gid add . (I want the current directory)
+
+git commit -m "added awesome feature that saved mankind"
+	
+	< 80 characters, make the past tense
+
+master is your original copy
+
+git checkout -b <branch name>
+
+think of using rrm/new_directory     meaning my initials rrm/feature_branch
+call the directory what the feature is to do
+rrm/money_market_accounts
+
+a branch is a series of changes, is actually creating a folder on your computer
+
+
+go to https://try.gihub.io
+
+never check out a new branch on a brand new repo
+
+git reset --hard HEAD (reset to original - very destructive, use with care)
+
+git GUI (Paul likes this)
+
+Pull request. Used to submit code t
+
+git reset file (unstage a file, do not use a branch name)
+
+reset is a very destructive command
+
+using -- instructs git to never use a branch
+
+
